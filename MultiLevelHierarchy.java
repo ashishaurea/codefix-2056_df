@@ -1,13 +1,13 @@
 
-class Super_A{
-	int i;
-	public Super_A(int x) {
-		i =x;
-	}
-	void Display(){
-		System.out.println("Value of i : "+i);
-	}
-}
+// class Super_A{
+// 	int i;
+// 	public Super_A(int x) {
+// 		i =x;
+// 	}
+// 	void Display(){
+// 		System.out.println("Value of i : "+i);
+// 	}
+// }
 class Sub_B extends Super_A{
 	int j;
 	public Sub_B(int x , int y) {
